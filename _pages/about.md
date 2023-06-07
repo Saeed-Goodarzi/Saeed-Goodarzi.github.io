@@ -15,37 +15,35 @@ I am currently a dual major student at [UMASS Amherst](https://www.umass.edu/), 
 M.S. Computer Science (Concentration in Data Science) (Double Major)<br>
 - **Relative courses:** Advanced NLP, Neural Networks, Information Retrieval, Advanced Algorithm
 
-<br>
 
 **University of Massachusetts Amherst (3.96/4)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sep 2019-Dec 2023*<br>
 Ph.D. Civil Engineering<br>
 - **Thesis:** Application of Machine Learning in improving maintenance scheduling of railway tracks
 
-<br>
 
 **Iran University of Science and Technology (3.72/4)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sep 2014-Nov 2016*<br>
 M.S. Civil Engineering<br>
-<br>
+
 
 **Iran University of Science and Technology (3.51/4)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Sep 2010-Sep 2014*<br>
 B.S. Railway Track Engineering
 
 ## Experience
-University of Massachusetts Amherst
-- Research Assistant
-- Sep 2019 - Present
+- University of Massachusetts Amherst
+    - Research Assistant
+    - Sep 2019 - Present
 
-Meta
-- Graduate Research Assistant
-- Feb 2023 - June 2023
+- Meta
+    - Graduate Research Assistant
+    - Feb 2023 - June 2023
 
-Loram Technologies, Inc 
-- Data Scientist Intern
-- June 2022 - Sep 2022
+- Loram Technologies, Inc 
+    - Data Scientist Intern
+    - June 2022 - Sep 2022
 
-University of Massachusetts Amherst
-- Teaching Assistant
-- Jan 2021 - May 2021
+- University of Massachusetts Amherst
+    - Teaching Assistant
+    - Jan 2021 - May 2021
 
 ## Selected Publications
 [**Stochastic analysis for estimating track geometry degradation rates based on GPR and LiDAR data**](https://www.sciencedirect.com/science/article/pii/S0950061823003021) <br>
